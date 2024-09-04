@@ -117,3 +117,7 @@ header h1 {
     margin: 20px 0; /* Adds space above and below the heading */
     font-family: 'Arial', sans-serif; /* Sets the font family */
 }
+
+marquee {
+    font-size: 30px;
+}
